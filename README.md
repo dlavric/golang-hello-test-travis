@@ -17,7 +17,7 @@ The repository includes:
 
 - A [.travis.yml](https://github.com/dlavric/golang-hello-test-travis/blob/main/.travis.yml) configuration file
 
-- A [hello.go](https://github.com/dlavric/golang-hello-test-travis/blob/main/hello.sh) go lang script that prints hello
+- A [hello.go](https://github.com/dlavric/golang-hello-test-travis/blob/main/hello.go) go lang script that prints hello
 
 - A [test.sh](https://github.com/dlavric/golang-hello-test-travis/blob/main/test.sh) shell script that will test if our hello.go script is doing what is supposed to do
 
